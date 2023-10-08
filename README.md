@@ -1,2 +1,2 @@
 # LeetCode
-This repository consists of all the questions i solve everyday in Leetcode
+This repository consists of all the questions I solve everyday in Leetcode
